@@ -10,3 +10,4 @@ def isPalindrome(word):
   
 
 isPalindrome("kajak")
+isPalindrome("stół")
