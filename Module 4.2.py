@@ -7,7 +7,10 @@ def isPalindrome(word):
     else:   
         answer = False
     print(answer)
-  
+    
+"""
+The function isPalindrome takes an input of a string and checks if it is a palindrome. It outputs the answer in boolean as True or False.
+""" 
 
 isPalindrome("kajak")
 isPalindrome("stół")
